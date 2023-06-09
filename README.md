@@ -5,6 +5,6 @@
   This will help in keeping the programmers and students updated about the upcoming coding contest
 ### Tech Stack
 > HTML
-> CSS5
+> CSS
 > Bootstrap
 > Javascript
