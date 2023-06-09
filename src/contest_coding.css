@@ -1,0 +1,48 @@
+html{
+    margin: 0;
+    padding: 0;    
+}
+
+body{
+    background-image: url(https://wallpapers.com/images/high/1920x1080-hd-coding-hjjgb7phqjqydv2a.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    overflow: auto;
+    scrollbar-color: greenyellow;
+}
+.card-body,.card{
+    background-color: black!important;
+    color: white;
+}
+
+.footer{
+    
+    width: auto;
+    background-color: grey;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fmz{
+    font-size: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(13, 11, 11);
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(167, 165, 165);
+}
